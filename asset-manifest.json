@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/skeleton-animation/static/css/main.1b37d364.chunk.css",
+    "main.js": "/skeleton-animation/static/js/main.39972b66.chunk.js",
+    "main.js.map": "/skeleton-animation/static/js/main.39972b66.chunk.js.map",
+    "runtime-main.js": "/skeleton-animation/static/js/runtime-main.96d9f16c.js",
+    "runtime-main.js.map": "/skeleton-animation/static/js/runtime-main.96d9f16c.js.map",
+    "static/js/2.2458cab4.chunk.js": "/skeleton-animation/static/js/2.2458cab4.chunk.js",
+    "static/js/2.2458cab4.chunk.js.map": "/skeleton-animation/static/js/2.2458cab4.chunk.js.map",
+    "index.html": "/skeleton-animation/index.html",
+    "static/css/main.1b37d364.chunk.css.map": "/skeleton-animation/static/css/main.1b37d364.chunk.css.map",
+    "static/js/2.2458cab4.chunk.js.LICENSE.txt": "/skeleton-animation/static/js/2.2458cab4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96d9f16c.js",
+    "static/js/2.2458cab4.chunk.js",
+    "static/css/main.1b37d364.chunk.css",
+    "static/js/main.39972b66.chunk.js"
+  ]
+}
